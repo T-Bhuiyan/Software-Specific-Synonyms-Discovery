@@ -1,9 +1,9 @@
 # Software-Specific-Synonyms-Discovery </br>
-Discover synonyms in software domain corpus(StackOverflow) \
+Discover synonyms in software domain corpus(StackOverflow) </br>
 
-• Input: Raw software corpus from web data (GitHub, StackOverflow,...) \
+• Input: Raw software corpus from web data (GitHub, StackOverflow,...) </br>
 • Output: A set of synonym pairs which belongs to software domain
-(as large as possible) \
+(as large as possible) </br>
 
 
 Examples: </br>
