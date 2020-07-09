@@ -1,1 +1,1 @@
-# T-Bhuiyan-Software-Specific-Synonyms-Discovery
+# Software-Specific-Synonyms-Discovery
